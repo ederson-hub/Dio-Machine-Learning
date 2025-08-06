@@ -1,13 +1,15 @@
-🚀 Curso de Machine Learning - Digital Innovation One (DIO) 🚀
-Bem-vindo(a) ao repositório do curso de Machine Learning da Digital Innovation One (DIO)!
+🚀 Curso de Machine Learning - Digital Innovation One (DIO) 
 
-Este repositório contém os materiais, códigos e projetos desenvolvidos ao longo do curso, com o objetivo de consolidar o aprendizado e servir como referência para futuras consultas.
+🚀Bem-vindo(a) ao meu repositório do curso de Machine Learning na Digital Innovation One (DIO)!
 
-🎯 Sobre o Curso
-O curso de Machine Learning da DIO oferece uma introdução abrangente aos conceitos fundamentais e às principais técnicas de aprendizado de máquina. Através de uma abordagem prática, você explorará desde os tipos de algoritmos até a implementação de modelos em Python, preparando-se para aplicar o conhecimento em projetos reais.
+Este repositório contém os materiais, códigos e projetos desenvolvidos ao longo do curso, com o objetivo de consolidar meu aprendizado e servir como referência para futuras consultas.
+
+🎯 No Curso
+No curso de Machine Learning na DIO tive uma introdução abrangente aos conceitos fundamentais e às principais técnicas de aprendizado de máquina.
+Na prática, explorei os tipos de algoritmos até a implementação de modelos em Python, preparando-me para aplicar o conhecimento em projetos reais.
 
 📚 Tópicos Abordados
-Durante o curso, você terá contato com os seguintes temas:
+Durante o curso, tive contato com os seguintes temas:
 
 Introdução ao Machine Learning: O que é Machine Learning, seus tipos (supervisionado, não supervisionado, por reforço) e suas aplicações.
 
